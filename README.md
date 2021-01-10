@@ -54,11 +54,11 @@ Comparing both codes along with the run times, we can establish that the refract
 
 ### **Original code**
 
-![](Resources/Original code.PNG)
+
 
 ### **Refractored code**
 
-![Refractored code](Resources/Refractored code.PNG)
+
 
 ## **Summary**
 
