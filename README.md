@@ -38,18 +38,18 @@ Comparing both codes along with the run times, we can establish that the refract
 
 # *Original analysis 2017*
 
-![Original 2017](
+![Original 2017](Resources/Original_2017.PNG)
 
 # *Refractored code 2017*
 
-![Refractored 2017](
+![Refractored 2017](Resources/VBA_Challenge_2017.PNG)
 
 # *Original analysis 2018*
 
-![Original 2018](
+![Original 2018](Resources/Original_2018.PNG)
 
 # *Refractored code 2018*
 
-![Refractored 2018](
+![Refractored 2018](Resources/VBA_Challenge_2018.PNG)
 
 
