@@ -11,8 +11,12 @@ A Colorado Board of Elections employye asked for my help to complete an election
 
 ## **Resources**
 To complete this task, I used the following:
-- Data source: election_results.csv
-- Software: Python 3.7.6 64 bit, Visual Studio Code, 1.52.1
+- Data source: 
+  - election_results.csv
+  
+- Software: 
+  - Python, 3.7.6 64 bit 
+  - Visual Studio Code, 1.52.1
 
 ## **Summary**
 The analysis of the election show that:
