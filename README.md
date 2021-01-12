@@ -52,5 +52,8 @@ The analysis of the election show that:
 
 ## **Election-Audit Summary**
 
+Working with this script, we can modify it by adding code lines to get the difference between the winner candidate and the runner up candidate to establish by how much the winner candidate won the election. This will be helpful especially in the instances where the election is very close.
+
+By adding more data, such as the total registered voters, we can calculate the percentage of voters that voted on the election with respect of the total number of registered voters. This data can be presented as a whole, that is including all counties, and it can also be broken down by county. This will give more insight on the voting trends according to the population registered to vote.
 
 
